@@ -1,0 +1,9 @@
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\bin\Debug\MQTT_dotnet.exe.config
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\bin\Debug\MQTT_dotnet.exe
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\bin\Debug\MQTT_dotnet.pdb
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.csprojResolveAssemblyReference.cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.Properties.Resources.resources
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.csproj.GenerateResource.Cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.exe
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\obj\Debug\MQTT_dotnet.pdb

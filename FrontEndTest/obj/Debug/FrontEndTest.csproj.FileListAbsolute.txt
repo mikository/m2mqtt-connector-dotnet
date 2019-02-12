@@ -1,0 +1,14 @@
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\FrontEndTest.exe.config
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\FrontEndTest.exe
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\FrontEndTest.pdb
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\Linker.dll
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\Linker.pdb
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.csprojResolveAssemblyReference.cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.Form1.resources
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.Properties.Resources.resources
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.csproj.GenerateResource.Cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.exe
+C:\Users\Home-PC\Desktop\C# advanced\MQTT_dotnet\FrontEndTest\obj\Debug\FrontEndTest.pdb
